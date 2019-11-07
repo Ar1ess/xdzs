@@ -1,4 +1,4 @@
-package com.mqc.test.customer;
+package com.softlab.customer;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
