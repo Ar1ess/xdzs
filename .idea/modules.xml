@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Springboot_Common/Springboot_Common.iml" filepath="$PROJECT_DIR$/Springboot_Common/Springboot_Common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Springboot_Customer/Springboot_Customer.iml" filepath="$PROJECT_DIR$/Springboot_Customer/Springboot_Customer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Springboot_Provider/Springboot_Provider.iml" filepath="$PROJECT_DIR$/Springboot_Provider/Springboot_Provider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/xdzs.iml" filepath="$PROJECT_DIR$/xdzs.iml" />
+    </modules>
+  </component>
+</project>

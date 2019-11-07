@@ -1,4 +1,4 @@
-package com.softlab.commom.provider;
+package com.softlab.provider;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
