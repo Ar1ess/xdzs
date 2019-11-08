@@ -11,6 +11,8 @@
 
     <artifactId>Springboot_Provider</artifactId>
 
+
+
     <dependencies>
 
         <dependency>
@@ -38,7 +40,6 @@
         <dependency>
             <groupId>com.github.sgroschupf</groupId>
             <artifactId>zkclient</artifactId>
-            <version>0.1</version>
         </dependency>
 
         <dependency>

@@ -4,10 +4,10 @@ server:
     context-path: /
 spring:
   datasource:
-    name: springdb
-    url: jdbc:mysql://39.97.112.80:3306/test
+    name: xdzs
+    url: jdbc:mysql://139.196.75.14:3306/xdzs
     username: root
-    password: Hope.1314
+    password: root
     # 使用druid数据源
     type: com.alibaba.druid.pool.DruidDataSource
     driver-class-name: com.mysql.jdbc.Driver

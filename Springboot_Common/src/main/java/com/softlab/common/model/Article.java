@@ -1,4 +1,4 @@
-package com.softlab.commom.model;
+package com.softlab.common.model;
 
 import lombok.Data;
 
